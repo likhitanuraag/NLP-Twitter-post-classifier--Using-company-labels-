@@ -1,0 +1,4 @@
+API command: kaggle datasets download -d manovirat/aspect
+Direct download: https://www.kaggle.com/manovirat/aspect
+
+Have fun.
